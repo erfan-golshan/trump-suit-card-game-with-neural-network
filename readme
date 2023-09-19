@@ -5,7 +5,10 @@ Erfan Golshan Artificial intelligence maker and game designer
 
 
 Introduction
-Today, machine learning and artificial intelligence have made a significant impact on technology and our daily lives, and they can also be used well to reduce complex tasks and heavy calculations to some extent or make them completely accessible. Meanwhile, artificial intelligence based on neural networks has had a tremendous impact and has helped a lot in the advancement of technology and science. In this article we are going to train a neural network AI to play a card game.
+Today, machine learning and artificial intelligence have made a significant impact on technology and our daily lives, 
+and they can also be used well to reduce complex tasks and heavy calculations to some extent or make them completely accessible. 
+Meanwhile, artificial intelligence based on neural networks has had a tremendous impact and has helped a lot in the advancement of technology and science. 
+In this article we are going to train a neural network AI to play a card game.
 
 About this card game
 In the trump suit card game (known as Hokm) cards randomly distributed among the players. The first player to get an ace can define the trump suit (this person is known as Hakem). Each player takes 5 cards at a time in the first turn. The dealing begins with the Hakem and continues anticlockwise. Right after Hakem receives his 5 cards, he must order up the trump suit. Cards are dealt out in 2 other turns until each player takes 4 cards. Ace has the highest value, followed by King, Queen, Soldier, and numbers. The trump cards are the most valuable of all. Hakem leads to the first trick. Each player in turn must follow suit. The highest number take the trick. Cards are collected from the ground and become a score. The winner needs to get 7 scores to win a round. If a player holds no cards of the suit led, that player may play any card including any trump card.

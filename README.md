@@ -8,7 +8,7 @@ Trump suit card game(Hokm) with neural network
 
 Erfan Golshan Artificial intelligence maker and game designer
 
-
+---------------------------------------------------------------
 * Introduction
 
 Today, machine learning and artificial intelligence have made a significant impact on technology and our daily lives, and they can also be used well to reduce complex tasks and heavy calculations to some extent 
@@ -18,7 +18,7 @@ or make them completely accessible. Meanwhile, artificial intelligence based on 
 are going to train a neural network AI to play a card game.
 
 
-
+---------------------------------------------------------------
 * About this card game
 
 In the trump suit card game (known as Hokm) cards randomly distributed among the players. The first player to get an ace can define the trump suit (this person is known as Hakem). Each player takes 5 cards at a
@@ -33,14 +33,14 @@ card including any trump card.
 
 As can be seen from the rules of the game, in each turn, we must consider the cards played, trump suit, the cards in our hand and also the suits that our teammate or opponent team doesn’t have. 
 
-
+---------------------------------------------------------------
 * Our objective
 
 Our goal is to build an unpredictable artificial intelligence. The higher goal is to make a robot of a person. It means to upload his game data to the robot and the robot will learn from him and then play like
 
 him.
 
-
+---------------------------------------------------------------
 * Investigating the interpolation method
 
 In this method, we give a series of points from the domain of an unknown function to the neural network and give the value of the function at that point as an answer. Then we train the network. Finally, the 
@@ -61,7 +61,7 @@ initial tests we enter the data manually.
 
 Then we use the data set of one of the professional players for real training.
 
-
+---------------------------------------------------------------
 * Testing the network
 
 In this section, we trained the network in each subcategory and also compare it with the person's game (we used PyTorch library). The network finally reaches an accuracy value, but by examining the data that 
@@ -72,7 +72,7 @@ opinion between these 3 choices.
 
 With more accurate classification of data, the performance and responsiveness of the network increases.
 
-
+---------------------------------------------------------------
 * The result of the game in the format of 4 players
 
 Below we see the game result of this learned robot. All four players are the same robots.
@@ -82,6 +82,6 @@ Below we see the game result of this learned robot. All four players are the sam
 https://github.com/erfan-golshan/trump-suit-card-game-with-neural-network/assets/129675348/73c844f7-6f93-4764-bfdb-cfe4a226a5cd
 
 
-
+---------------------------------------------------------------
 * The license of the code for the neural network and the results belong to the Dream Rain game company.
 

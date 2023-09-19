@@ -18,6 +18,7 @@ or make them completely accessible. Meanwhile, artificial intelligence based on 
 are going to train a neural network AI to play a card game.
 
 
+
 * About this card game
 
 In the trump suit card game (known as Hokm) cards randomly distributed among the players. The first player to get an ace can define the trump suit (this person is known as Hakem). Each player takes 5 cards at a

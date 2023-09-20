@@ -1,4 +1,4 @@
-# trump-suit-card-game-with-neural-network
+# trump-suit-card-game-with-phased-functioned-neural-network
 
 Trump suit card game(Hokm) with neural network
 
